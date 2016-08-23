@@ -42,14 +42,15 @@ request。
   https://github.com/DarkAlexWang/transmission-web-control/raw/master/release/transmission-control-full.tar.gz
 ~~~
  - 或到下载安装脚本，此脚本只需要下载一次，以后只需要执行即可:
-~~~~
+~~~
   wget https://github.com/DarkAlexWang/transmission-web-control/raw/master/release/tr-control-easy-install.sh
   sudo bash tr-control-easy-install.sh
-~~~~
- - 如果需要http而不是https，请使用以下命令;
- `wget https://github.com/DarkAlexWang/transmission-web-control/raw/master/release/tr-control-easy-install-en-http.sh --no-check-certificate`
- `sudo bash tr-control-easy-install-en-http.sh`
-
+~~~
+ - 如果需要http而不是https，请使用以下命令:
+~~~
+  wget https://github.com/DarkAlexWang/transmission-web-control/raw/master/release/tr-control-easy-install-en-http.sh --no-check-certificate
+  sudo bash tr-control-easy-install-en-http.sh
+~~~
 
 ### 关于多语言(Multi-language)
 系统使用多语言的方式构建，所以可以支持其他任何语言；但，由于本人水平有限，只会中文，所以需要懂其他语言的您的帮助，如果您已经翻译好了一个语言版本，请同时发给我一份，我会打包在一起，分享给更多的用户，谢谢。
@@ -134,23 +135,23 @@ I will do my best to fix the issues that in the origianl repo.
 
 ### Download
  - You can get the latest version of the program for this address:
- ~~~~
+~~~
   wget https://github.com/DarkAlexWang/transmission-web-control/raw/master/release/transmission-control-full.tar.gz
- ~~~~
+~~~
  - Or download easy install script:
- ~~~~
+~~~
   wget https://github.com/DarkAlexWang/transmission-web-control/raw/master/release/tr-control-easy-install.sh
   sudo bash tr-control-easy-install.sh
- ~~~~
+~~~
  - If you need http download instead of https, please use the following
      commands:
- ~~~~
+~~~
   wget https://github.com/DarkAlexWang/transmission-web-control/raw/master/release/tr-control-easy-install-en-http.sh --no-check-certificate
   sudo bash tr-control-easy-install-en-http.sh
- ~~~~
+~~~
  - install.sh script with english comments:
- ~~~~
+~~~
   wget https://github.com/DarkAlexWang/transmission-web-control/raw/master/release/tr-control-easy-install-en.sh
- ~~~~
+~~~
 
 ###### 创建于(Create): 2012.12.18；更新于(Update): 2014.10.13 By 栽培者(ronggang); Updated: 08-23-2016 by DarkAlexWang  ######
